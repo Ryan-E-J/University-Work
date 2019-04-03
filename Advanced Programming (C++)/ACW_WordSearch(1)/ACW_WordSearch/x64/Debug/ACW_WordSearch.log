@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(395,5): warning MSB8029: The Intermediate directory or Output directory cannot reside under the Temporary directory as it could lead to issues with incremental build.
+  advDict.cpp
+c:\users\532163\appdata\local\temp\acw_wordsearch(1)\acw_wordsearch\advdict.cpp(35): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  WordSearch.cpp
+c:\users\532163\appdata\local\temp\acw_wordsearch(1)\acw_wordsearch\wordsearch.cpp(146): warning C4804: '<': unsafe use of type 'bool' in operation
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Cell.cpp
+  Generating Code...
+  ACW_WordSearch.vcxproj -> C:\Users\532163\AppData\Local\Temp\ACW_WordSearch(1)\x64\Debug\ACW_WordSearch.exe
+  ACW_WordSearch.vcxproj -> C:\Users\532163\AppData\Local\Temp\ACW_WordSearch(1)\x64\Debug\ACW_WordSearch.pdb (Partial PDB)
