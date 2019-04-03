@@ -1,4 +1,4 @@
-# University-Work
+# University Work
 Work completed whilst at university, some aspects of programs will be incomplete and most of these will not be completed in the future. If projects are improved upon they will have an original folder and an upgraded folder.
 
 Advanced Programming was a module that was created using C++, the program's purpose was to find solutions to a word search in the quickest time possible. Section 1 of this program is working however I did not complete section 2 which required a more advanced algorithm, this currently my first and only project in C++ with plans to create a new personal one over summer.
