@@ -1,0 +1,17 @@
+C:\Users\532163\source\repos\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\532163\source\repos\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\532163\source\repos\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\532163\source\repos\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\532163\source\repos\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\532163\source\repos\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\532163\source\repos\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\532163\AppData\Local\Temp\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\Ryan\Desktop\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Ryan\Desktop\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\Ryan\Desktop\locationserver\locationserver\obj\Debug\locationserver.pdb

@@ -1,0 +1,30 @@
+c:\users\532163\source\repos\Location\Location\bin\Debug\Location.exe.config
+c:\users\532163\source\repos\Location\Location\bin\Debug\Location.exe
+c:\users\532163\source\repos\Location\Location\bin\Debug\Location.pdb
+c:\users\532163\source\repos\Location\Location\obj\Debug\Location.csprojResolveAssemblyReference.cache
+c:\users\532163\source\repos\Location\Location\obj\Debug\Location.csproj.CoreCompileInputs.cache
+c:\users\532163\source\repos\Location\Location\obj\Debug\Location.exe
+c:\users\532163\source\repos\Location\Location\obj\Debug\Location.pdb
+C:\Location\Location\bin\Debug\Location.exe.config
+C:\Location\Location\bin\Debug\Location.exe
+C:\Location\Location\bin\Debug\Location.pdb
+C:\Location\Location\obj\Debug\Location.csprojResolveAssemblyReference.cache
+C:\Location\Location\obj\Debug\Location.csproj.CoreCompileInputs.cache
+C:\Location\Location\obj\Debug\Location.exe
+C:\Location\Location\obj\Debug\Location.pdb
+C:\Users\532163\AppData\Local\Temp\Location\Location\bin\Debug\Location.exe.config
+C:\Users\532163\AppData\Local\Temp\Location\Location\bin\Debug\Location.exe
+C:\Users\532163\AppData\Local\Temp\Location\Location\bin\Debug\Location.pdb
+C:\Users\532163\AppData\Local\Temp\Location\Location\obj\Debug\Location.csprojResolveAssemblyReference.cache
+C:\Users\532163\AppData\Local\Temp\Location\Location\obj\Debug\Location.csproj.CoreCompileInputs.cache
+C:\Users\532163\AppData\Local\Temp\Location\Location\obj\Debug\Location.exe
+C:\Users\532163\AppData\Local\Temp\Location\Location\obj\Debug\Location.pdb
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\bin\Debug\Location.exe.config
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\bin\Debug\Location.exe
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\bin\Debug\Location.pdb
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\obj\Debug\Location.csprojResolveAssemblyReference.cache
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\obj\Debug\Location.csproj.CoreCompileInputs.cache
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\obj\Debug\Location.exe
+\\cna-cifs.adir.hull.ac.uk\home5\532\532163\New folder\Networking\Location\Location\obj\Debug\Location.pdb
+C:\Users\532163\AppData\Local\Temp\Location\Location\obj\Debug\Location.LocationInterface.resources
+C:\Users\532163\AppData\Local\Temp\Location\Location\obj\Debug\Location.csproj.GenerateResource.Cache
